@@ -1,0 +1,29 @@
+Table OF Contents
+------------------------------------
+
+1 > HEADER
+------ Top header
+------ Logo
+------ Search
+------ Cart
+2 > NAVIGATION
+------ Main nav
+------ Responsive Nav
+3 > CATEGORY SHOP
+4 > HOT DEAL
+5 > PRODUCT
+------ Product
+------ Widget product
+------ Product slick
+6 > STORE PAGE
+------ Aside
+------ Store
+7 > PRODUCT DETAILS PAGE
+------ Product view
+------ Product details
+------ Product tab
+8 > CHECKOUT PAGE
+9 > NEWSLETTER
+10 > FOOTER
+11 > SLICK STYLE
+12 > RESPONSIVE
